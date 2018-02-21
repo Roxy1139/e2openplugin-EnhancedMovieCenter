@@ -2859,47 +2859,47 @@ msgstr ""
 
 #: plugin.py:382
 msgid "Days"
-msgstr ""
+msgstr "dnů "
 
 #: plugin.py:387
 msgid "Week"
-msgstr ""
+msgstr "týden"
 
 #: plugin.py:390
 msgid "Weeks"
-msgstr ""
+msgstr "týdny"
 
 #: plugin.py:395
 msgid "Month"
-msgstr ""
+msgstr "měs."
 
 #: plugin.py:398
 msgid "Months"
-msgstr ""
+msgstr "měsíců"
 
 #: plugin.py:403
 msgid "No limit"
-msgstr ""
+msgstr "bez limitu"
 
 #: plugin.py:434
 msgid "IMDb Search"
-msgstr "IMDb info"
+msgstr "info IMDb"
 
 #: plugin.py:434
 msgid "EMC-TMDB Info"
-msgstr ""
+msgstr "info z EMC-TMDB"
 
 #: plugin.py:434
 msgid "TMDB Info"
-msgstr "TMDB info"
+msgstr "info TMDB"
 
 #: plugin.py:434
 msgid "TMBD Info"
-msgstr ""
+msgstr "info TMBD"
 
 #: plugin.py:434
 msgid "CSFD Info"
-msgstr "CSFD info"
+msgstr "info CSFD"
 
 #: plugin.py:524
 msgid "configuration"
@@ -2915,14 +2915,14 @@ msgstr " souborů\n"
 
 #: RogueFileCheck.py:43
 msgid "No rogue files found."
-msgstr "Osamocené soubory nebyly nalezeny."
+msgstr "Osamocené soubory nebyly nalezeny..."
 
 #: RogueFileCheck.py:44
 msgid ""
 "Found rogue files:\n"
 "\n"
 msgstr ""
-"Odstraněno samostatných souborů :\n"
+"Odstraněno souborů :\n"
 "\n"
 
 #: VlcPluginInterface.py:156
